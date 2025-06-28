@@ -1,6 +1,6 @@
-# ShivShakti E-commerce Store Power BI Project
+# E-commerce Store Power BI Project
 
-Welcome to the ShivShakti E-commerce Store Power BI project repository! This project provides a comprehensive analysis of sales and profitability insights derived from the data of our esteemed e-commerce platform.
+Welcome to the E-commerce Store Power BI project repository! This project provides a comprehensive analysis of sales and profitability insights derived from the data of our esteemed e-commerce platform.
 
 ## Data Acquisition Challenges
 
